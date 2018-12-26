@@ -1,0 +1,9 @@
+c:\users\teknik\documents\visual studio 2015\Projects\intro_pizzaciSiparisEkrani\intro_pizzaciSiparisEkrani\bin\Debug\intro_pizzaciSiparisEkrani.exe.config
+c:\users\teknik\documents\visual studio 2015\Projects\intro_pizzaciSiparisEkrani\intro_pizzaciSiparisEkrani\bin\Debug\intro_pizzaciSiparisEkrani.exe
+c:\users\teknik\documents\visual studio 2015\Projects\intro_pizzaciSiparisEkrani\intro_pizzaciSiparisEkrani\bin\Debug\intro_pizzaciSiparisEkrani.pdb
+c:\users\teknik\documents\visual studio 2015\Projects\intro_pizzaciSiparisEkrani\intro_pizzaciSiparisEkrani\obj\Debug\intro_pizzaciSiparisEkrani.csprojResolveAssemblyReference.cache
+c:\users\teknik\documents\visual studio 2015\Projects\intro_pizzaciSiparisEkrani\intro_pizzaciSiparisEkrani\obj\Debug\intro_pizzaciSiparisEkrani.Form1.resources
+c:\users\teknik\documents\visual studio 2015\Projects\intro_pizzaciSiparisEkrani\intro_pizzaciSiparisEkrani\obj\Debug\intro_pizzaciSiparisEkrani.Properties.Resources.resources
+c:\users\teknik\documents\visual studio 2015\Projects\intro_pizzaciSiparisEkrani\intro_pizzaciSiparisEkrani\obj\Debug\intro_pizzaciSiparisEkrani.csproj.GenerateResource.Cache
+c:\users\teknik\documents\visual studio 2015\Projects\intro_pizzaciSiparisEkrani\intro_pizzaciSiparisEkrani\obj\Debug\intro_pizzaciSiparisEkrani.exe
+c:\users\teknik\documents\visual studio 2015\Projects\intro_pizzaciSiparisEkrani\intro_pizzaciSiparisEkrani\obj\Debug\intro_pizzaciSiparisEkrani.pdb
