@@ -1,1 +1,1 @@
-# Myprojects
+This contains Titanic data analysis.
